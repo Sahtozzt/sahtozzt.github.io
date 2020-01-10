@@ -1,6 +1,5 @@
 # Sahtozzt
-<a href="/Default">Default</a> | 
 
-Something here
+You do not have to be here.
 
 # Copyright, Sahtozzt. All Rights Reserved.
